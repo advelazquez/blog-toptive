@@ -3,7 +3,7 @@ Mini Blog - Top Tive:
 Postulante: Velazquez Alan (TEL. 3584294661)
 
 El proyecto debe correr en:
-"http://localhost/projectvelazquezalan"
+"http://localhost/projectvelazquezalan/admin"
 
 Importe la Base de datos guardada en "db/" en PHPMyAdmin
 
