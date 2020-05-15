@@ -1,2 +1,1 @@
-# blog-toptive
-Coloquio de prueba: "Blog para TopTive"
+Blog para TopTive
